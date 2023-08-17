@@ -1,0 +1,29 @@
+.section-center {
+  width: 100%;
+  text-align: center;
+}
+.section-center h4 {
+  text-transform: uppercase;
+  text-align: center;
+}
+.text-form{
+  border-radius: 10px;
+  margin: 10px 10px 10px 10px;
+
+}
+.text-form input{
+  width: 40px;
+  border-radius: 10px solid;
+
+}
+.text-form .btn{
+  background-color:burlywood;
+  color: antiquewhite;
+}
+
+.text-text{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+.text-text p {
+  line-height: 2;}
